@@ -1,0 +1,31 @@
+#include <winres.h>
+#include "resource.h"
+
+// paths are relative to the project root (build.bat runs rc from there)
+IDI_APP        ICON   "icons\\cleanx.ico"
+IDR_BACKGROUND RCDATA "res\\messy_lab.jpg"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,0,0
+ PRODUCTVERSION 2,0,0,0
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "LaserLab"
+            VALUE "FileDescription", "CleanX - monthly LaserLab cleaning reminder"
+            VALUE "FileVersion", "2.0.0"
+            VALUE "InternalName", "CleanX"
+            VALUE "OriginalFilename", "CleanX.exe"
+            VALUE "ProductName", "CleanX"
+            VALUE "ProductVersion", "2.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END

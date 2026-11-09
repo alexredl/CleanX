@@ -1,0 +1,39 @@
+# CleanX headlines - one per line, a different one is picked every day.
+# Lines starting with # are ignored. Delete this file to restore the defaults.
+
+It's time to clean the Laser-Lab!
+Entropy is winning. Fight back!
+The dust has reached quantum coherence.
+Heisenberg is uncertain where the floor is.
+Even the photons refuse to work in this mess.
+Your beam path is clear. Your floor is not.
+That's not cable management. That's spaghetti.
+The ions are trapped. You don't have to be.
+Maxwell's demon quit. Someone has to sort this.
+Schrödinger's lab: clean AND messy - until you look.
+UHV in the chamber, ultra-high chaos below.
+Mode-lock your broom and start sweeping!
+Dust is not a valid beam diagnostic.
+Cleaning: the only experiment that always works.
+Today's alignment target: the floor.
+Scattering losses detected: 87 % dust.
+Reviewer 2 says: "The lab is a mess."
+Please collimate the screws back into their box.
+Time to bring the lab back to its ground state.
+Your optics called. They can't see anything.
+The dust bunnies have started a PhD.
+Lower the noise floor - by cleaning the floor.
+Doppler cooling won't cool down this chaos.
+Lost your Allen key? Clean the lab and find it!
+Signal-to-mess ratio critically low!
+A whole ecosystem lives under the optical table.
+Reduce the lab's entropy by at least 1 J/K today.
+The vacuum is great. The lab needs a vacuum cleaner.
+Nobel prizes are rarely awarded to messy labs.
+Even the turbo pump can't suck up this much dust.
+First align the lab, then align the lasers.
+Paper sheets are not a floor coating.
+Clean lab, happy ions!
+Warning: dust density exceeds the Rayleigh limit.
+This lab has more loose screws than a theorist.
+Optical table: isolated. Mess: not isolated.
